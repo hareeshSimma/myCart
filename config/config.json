@@ -1,0 +1,11 @@
+{
+    "mailer": {
+            "service": "Gmail",
+            "username" : "mybigstoreindia@gmail.com",
+            "password" : "hareesh@123",
+            "from" : "mybigstoreindia@gmail.com",
+            "host":"smtp.gmail.com",
+            "port":"465",
+            "emethod":"SMTP"
+    } 
+}
